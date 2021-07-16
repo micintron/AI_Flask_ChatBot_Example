@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/micintro/Desktop/personal_study_work/git_repos /Chat_Bot_Template/flaskMain/Scripts/notebooks/model_data/model.tflearn"
+all_model_checkpoint_paths: "/Users/micintro/Desktop/personal_study_work/git_repos /Chat_Bot_Template/flaskMain/Scripts/notebooks/model_data/model.tflearn"
