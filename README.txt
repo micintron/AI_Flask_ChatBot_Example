@@ -11,7 +11,7 @@ Run the run file in the virtual env
 
 The Scripts folder also has a Jupiter notebook with the full NLP model laid out 
 
-You can retain the model with a new intents son file from the UI as well 
+You can retain the model with a new intents json file from the UI as well 
 
 The structure is built to show how easy it can be to slot in a AI model with flask 
 And allow you to change this model for another one or include multiples just as easily 
