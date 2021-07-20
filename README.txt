@@ -18,4 +18,10 @@ And allow you to change this model for another one or include multiples just as 
 
 
 
+The product is now fully dockerized and implements docker compose 
 
+Use this command to build the project run in the root folder
+docker-compose build
+
+Use this command to run the full image once built
+docker-compose up

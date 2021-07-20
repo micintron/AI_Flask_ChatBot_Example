@@ -3,11 +3,15 @@ import random
 import base64
 from werkzeug import secure_filename
 from flask import render_template, url_for, flash, redirect, request, Response
-from flaskMain import app, db, bcrypt
-from flaskMain.Forms import *
-from flaskMain.Models import User, Post
 from flask_login import login_user, current_user, logout_user, login_required
-from flaskMain.Scripts.ChatBot import *
+# from flaskMain import app, db, bcrypt
+# from flaskMain.Forms import *
+# from flaskMain.Models import User, Post
+# from flaskMain.Scripts.ChatBot import *
+from ..flaskMain import app, db, bcrypt
+from ..flaskMain.Forms import *
+from ..flaskMain.Models import User, Post
+from ..flaskMain.Scripts.ChatBot import *
 
 
 
