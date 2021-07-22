@@ -25,3 +25,13 @@ docker-compose build
 
 Use this command to run the full image once built
 docker-compose up
+
+
+
+
+
+More great Links on chat bots in AI -
+
+https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313 
+
+
